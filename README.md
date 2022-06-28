@@ -26,7 +26,6 @@ En resumen, <b>TheDiato</b> es un instrumento que se ejecuta acercando y/o aleja
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/67986196/176055479-6f402901-5d23-4410-8249-01750d4417b0.png" />
-  <img src="https://user-images.githubusercontent.com/67986196/176055379-1111c19e-41c3-4bdd-80a2-d82c6f484108.png" />
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/67986196/176055379-1111c19e-41c3-4bdd-80a2-d82c6f484108.png" />
